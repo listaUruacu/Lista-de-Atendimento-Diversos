@@ -13,6 +13,7 @@ window.EVENTS = [
   {"date": "2026-10-11", "time": "09:00", "category": "Ensaios regionais", "location": "Mara Rosa - Central", "detail": "Anc.: Nilton José; Enc.: Tiago Caetano; Enc.: Wesley Ferreira"},
   {"date": "2026-10-18", "time": "09:00", "category": "Ensaios regionais", "location": "Rubiataba - Central", "detail": "Anc.: Moisés Eduardo; Enc.: Edvaldo Pereira; Enc.: Manoel Messias"},
   {"date": "2026-11-22", "time": "09:00", "category": "Ensaios regionais", "location": "Santa Terezinha de Goiás - Central", "detail": "Anc.: Paulo Roberto Dias; Enc.: Huiwerson Delfino; Enc.: Manoel Messias"},
+  {"date": "2026-10-26", "time": "19:30", "category": "Assuntos musicais", "location": "Online", "detail": "Reunião on-line parte musical Região Uruaçu com presença dos anciães que acompanham parte musical, encarregados regionais e encarregados locais."},
   {"date": "2026-10-15", "time": "21:00", "category": "Reuniões diversas", "location": "Barro Alto - Vila Extrema", "detail": "Reunião ministerial e administrativa - RMA"},
   {"date": "2026-10-16", "time": "21:00", "category": "Reuniões diversas", "location": "Uruaçu - Central", "detail": "Reunião ministerial e administrativa (RMA)"},
   {"date": "2026-10-19", "time": "19:30", "category": "Reuniões diversas", "location": "Niquelândia - Central", "detail": "Reunião ministerial e administrativa - RMA"},
@@ -35,5 +36,6 @@ window.EVENTS = [
   {"date": "2026-10-17", "time": "", "category": "Viagens missionárias", "location": "Uirapuru - Dist. Vila Sertaneja", "detail": "Anc.: Silvanio Machado"},
   {"date": "2026-10-25", "time": "", "category": "Viagens missionárias", "location": "Crixás - Auriverde (Gominho)", "detail": "Anc.: Silvanio Machado"},
   {"date": "2026-12-06", "time": "19:00", "category": "Santas ceias", "location": "Goianésia - Central", "detail": "Ancião: Welber Lima"},
-  {"date": "2026-12-13", "time": "19:00", "category": "Santas ceias", "location": "Niquelândia - Central", "detail": ""}
+  {"date": "2026-12-13", "time": "19:00", "category": "Santas ceias", "location": "Niquelândia - Central", "detail": ""},
+  {"date": "2026-12-20", "time": "19:00", "category": "Santas ceias", "location": "Itapaci - Central", "detail": "Ancião: Rafael dos Santos"}
 ];

@@ -26,8 +26,8 @@ modo offline. O endereço precisa estar publicado com HTTPS.
 
 DADOS
 - Fonte: Lista de Atendimentos Diversos, reunião de 10/10/2026.
-- Período: 11/10/2026 a 13/12/2026.
-- Foram incluídos somente os 37 atendimentos das tabelas da lista de 10/10/2026.
+- Período: 11/10/2026 a 20/12/2026.
+- Foram incluídos somente os 39 atendimentos das tabelas da lista de 10/10/2026.
 - Quando o PDF não informa um horário, o aplicativo exibe "não informado".
 - O PDF atual não informa nomes de diáconos; o filtro fica preparado para futuras listas.
 
