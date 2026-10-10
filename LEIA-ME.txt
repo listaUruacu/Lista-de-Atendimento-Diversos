@@ -25,11 +25,11 @@ Importante: abrir os arquivos diretamente no celular não ativa a instalação e
 modo offline. O endereço precisa estar publicado com HTTPS.
 
 DADOS
-- Fonte: Lista de Atendimentos Diversos, reunião de 08/08/2026.
-- Período: 08/08/2026 a 18/10/2026.
-- Foram incluídos eventos das tabelas e avisos com datas específicas.
+- Fonte: Lista de Atendimentos Diversos, reunião de 10/10/2026.
+- Período: 11/10/2026 a 13/12/2026.
+- Foram incluídos somente os 37 atendimentos das tabelas da lista de 10/10/2026.
 - Quando o PDF não informa um horário, o aplicativo exibe "não informado".
 - O PDF atual não informa nomes de diáconos; o filtro fica preparado para futuras listas.
 
-Para atualizar a programação no futuro, substitua ou acrescente registros no
+Para atualizar a programação no futuro, substitua os registros no
 arquivo events.js seguindo o mesmo formato dos registros existentes.

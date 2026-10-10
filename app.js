@@ -599,7 +599,7 @@
     if (button) renderSubject(button.dataset.subject, true);
   });
   document.querySelectorAll('[data-shift]').forEach(button => button.addEventListener('click', () => {
-    const base = parseDate(dateInput.value) || new Date(2026, 7, 9, 12);
+    const base = parseDate(dateInput.value) || parseDate(events[0].date);
     base.setDate(base.getDate() + Number(button.dataset.shift));
     renderDate(toInputDate(base));
   }));

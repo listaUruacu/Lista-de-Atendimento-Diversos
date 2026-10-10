@@ -1,6 +1,7 @@
 {
   "name": "Lista de Atendimentos Diversos - Regional Uruaçu",
   "short_name": "Atendimentos Uruaçu",
+  "id": "./",
   "description": "Consulte a agenda regional por data, responsável ou cidade.",
   "lang": "pt-BR",
   "start_url": "./",
