@@ -26,8 +26,8 @@ modo offline. O endereço precisa estar publicado com HTTPS.
 
 DADOS
 - Fonte: Lista de Atendimentos Diversos, reunião de 10/10/2026.
-- Período: 07/07/2026 a 20/12/2026.
-- Foram incluídos 40 atendimentos e 1 aviso da lista de 10/10/2026.
+- Período: 07/07/2026 a 21/12/2026.
+- Foram incluídos 40 atendimentos e 2 avisos (45 registros: a coleta especial está cadastrada em cada uma das quatro datas) da lista de 10/10/2026.
 - O aviso de Linda Vista usa a data de abertura (07/07/2026); os cultos semanais às terças-feiras, às 19h30, estão descritos no aviso.
 - Quando o PDF não informa um horário, o aplicativo exibe "não informado".
 - O PDF atual não informa nomes de diáconos; o filtro fica preparado para futuras listas.

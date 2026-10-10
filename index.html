@@ -16,7 +16,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icon-192.png">
-  <link rel="stylesheet" href="styles.css?v=43">
+  <link rel="stylesheet" href="styles.css?v=44">
 </head>
 <body>
   <main class="app-shell">
@@ -46,7 +46,7 @@
           <p class="panel-description">Consulte por assunto, ancião, diácono, encarregado, examinadora, cidade, avisos ou data.</p>
           <h2 id="search-title">O que você deseja consultar?</h2>
         </div>
-        <span class="database-badge"><strong id="event-total">41</strong> eventos cadastrados</span>
+        <span class="database-badge"><strong id="event-total">45</strong> eventos cadastrados</span>
       </div>
 
       <form id="keyword-form" class="keyword-form" role="search">
@@ -91,7 +91,7 @@
       <form id="date-form" class="date-form" hidden>
         <label for="event-date">Data do evento</label>
         <div class="date-controls">
-          <input id="event-date" name="event-date" type="date" min="2026-07-07" max="2026-12-20" required>
+          <input id="event-date" name="event-date" type="date" min="2026-07-07" max="2026-12-21" required>
           <button class="primary-button" type="submit">
             <span aria-hidden="true">⌕</span> Consultar
           </button>
@@ -139,7 +139,7 @@
 
     <footer>
       <p>Dados da Lista de Atendimentos Diversos — reunião de 10 de outubro de 2026.</p>
-      <p>Período disponível: 07/07/2026 a 20/12/2026.</p>
+      <p>Período disponível: 07/07/2026 a 21/12/2026.</p>
     </footer>
   </main>
 
@@ -153,11 +153,11 @@
     </section>
   </div>
 
-  <script src="events.js?v=43"></script>
-  <script src="app.js?v=43"></script>
+  <script src="events.js?v=44"></script>
+  <script src="app.js?v=44"></script>
   <script>
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => navigator.serviceWorker.register('./service-worker.js?v=43'));
+      window.addEventListener('load', () => navigator.serviceWorker.register('./service-worker.js?v=44'));
     }
   </script>
 </body>

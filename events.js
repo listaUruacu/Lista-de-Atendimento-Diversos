@@ -39,5 +39,9 @@ window.EVENTS = [
   {"date": "2026-12-06", "time": "19:00", "category": "Santas ceias", "location": "Goianésia - Central", "detail": "Ancião: Welber Lima"},
   {"date": "2026-12-13", "time": "19:00", "category": "Santas ceias", "location": "Niquelândia - Central", "detail": ""},
   {"date": "2026-12-20", "time": "19:00", "category": "Santas ceias", "location": "Itapaci - Central", "detail": "Ancião: Rafael dos Santos"},
-  {"date": "2026-07-07", "time": "", "category": "Avisos à irmandade", "location": "Porangatu - Povoado Linda Vista", "detail": "Foi realizada a abertura da casa de oração em Porangatu, distrito de Linda Vista no dia 07 de julho deste ano. Os cultos são realizados todas as terças-feiras às 19:30h."}
+  {"date": "2026-07-07", "time": "", "category": "Avisos à irmandade", "location": "Porangatu - Povoado Linda Vista", "detail": "Foi realizada a abertura da casa de oração em Porangatu, distrito de Linda Vista no dia 07 de julho deste ano. Os cultos são realizados todas as terças-feiras às 19:30h."},
+  {"date": "2026-12-18", "time": "", "category": "Avisos à irmandade", "location": "Todas as congregações da regional", "detail": "Coleta especial para Anexo Uruaçu em todas as congregações da regional nos dias 18, 19, 20 e 21 de dezembro. Chave Pix: ccbanexo@gmail.com"},
+  {"date": "2026-12-19", "time": "", "category": "Avisos à irmandade", "location": "Todas as congregações da regional", "detail": "Coleta especial para Anexo Uruaçu em todas as congregações da regional nos dias 18, 19, 20 e 21 de dezembro. Chave Pix: ccbanexo@gmail.com"},
+  {"date": "2026-12-20", "time": "", "category": "Avisos à irmandade", "location": "Todas as congregações da regional", "detail": "Coleta especial para Anexo Uruaçu em todas as congregações da regional nos dias 18, 19, 20 e 21 de dezembro. Chave Pix: ccbanexo@gmail.com"},
+  {"date": "2026-12-21", "time": "", "category": "Avisos à irmandade", "location": "Todas as congregações da regional", "detail": "Coleta especial para Anexo Uruaçu em todas as congregações da regional nos dias 18, 19, 20 e 21 de dezembro. Chave Pix: ccbanexo@gmail.com"}
 ];
